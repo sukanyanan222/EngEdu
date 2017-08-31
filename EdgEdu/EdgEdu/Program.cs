@@ -14,7 +14,8 @@ namespace EdgEdu
             Console.WriteLine("Year 2559 semester 2, I learn to  program in C sharp.");
             Console.WriteLine("Year 2560 semester 1, I start my programmer life.");
             Console.WriteLine("Year 2560 semester 2, I learn database.");
-           
+            Console.WriteLine("Year 2561 semester 1, I learn data structure.");
+            Console.WriteLine("Year 2561 semester 2, I start industral training.");
 
 
 
